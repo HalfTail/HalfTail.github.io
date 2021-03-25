@@ -268,7 +268,7 @@ h2 ~ p {
 }
 .hero-content .social-link:hover {
   background-color: #000;
-  color#fff;
+  color: #fff;
 }
 .half-hero {
   background-position: center center;
